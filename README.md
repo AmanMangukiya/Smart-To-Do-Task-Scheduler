@@ -41,11 +41,11 @@ SmartToDoScheduler/
 bash
 g++ main.cpp Task.cpp TaskManager.cpp -o todo
 
-###▶️ Run:
-./todo       # Linux/Mac
-.\todo.exe   # Windows PowerShell
+### ▶️ Run:
+- ./todo       # Linux/Mac
+- .\todo.exe   # Windows PowerShell
 
-###📋 Menu Options
+### 📋 Menu Options
 ====== To-Do Task Scheduler ======
 1. Add Task
 2. View Tasks
