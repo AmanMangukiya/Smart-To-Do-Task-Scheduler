@@ -20,13 +20,13 @@ This tool helps you organize, prioritize, and track your tasks with persistent f
 ## 📁 File Structure
 
 SmartToDoScheduler/
--├── main.cpp # Entry point & CLI logic
--├── Task.hpp # Task class declaration
--├── Task.cpp # Task class implementation
--├── TaskManager.hpp # TaskManager class declaration
--├── TaskManager.cpp # TaskManager logic & file I/O
--├── tasks.txt # Auto-generated task database
--└── README.md # Project documentation
+- ├── main.cpp # Entry point & CLI logic
+- ├── Task.hpp # Task class declaration
+- ├── Task.cpp # Task class implementation
+- ├── TaskManager.hpp # TaskManager class declaration
+- ├── TaskManager.cpp # TaskManager logic & file I/O
+- ├── tasks.txt # Auto-generated task database
+- └── README.md # Project documentation
 
 
 ---
