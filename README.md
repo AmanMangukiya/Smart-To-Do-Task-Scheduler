@@ -55,16 +55,16 @@ g++ main.cpp Task.cpp TaskManager.cpp -o todo
 6. Exit
 
 ### 🧠 Data Persistence
-All tasks are saved to tasks.txt automatically
-Data is reloaded every time you restart the app
-File format: plain text (easy to inspect or edit)
+- All tasks are saved to tasks.txt automatically
+- Data is reloaded every time you restart the app
+- File format: plain text (easy to inspect or edit)
 
 🔐 Example Task Entry
 
-ID        : 2
-Title     : Finish resume
-Desc      : Final draft + export to PDF
-Priority  : High
-Due Date  : Tue Jun 25 16:30:00 2025
-Completed : No
+- ID        : 2
+- Title     : Finish resume
+- Desc      : Final draft + export to PDF
+- Priority  : High
+- Due Date  : Tue Jun 25 16:30:00 2025
+- Completed : No
 ⚠️ Status   : Overdue!
